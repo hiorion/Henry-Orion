@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando evoluir
 
 🎓 Estudante de [Analise e desenvolvimento de Sistemas - Uniasselvi] 
 
-🎓 Estudante de [Desenvolvedor - FULSTACK PYTHON - EBAC] 
+🎓 Estudante de [Desenvolvedor - FULLSTACK PYTHON - EBAC] 
 
 💻 Apaixonado por desenvolvimento de software  
 
