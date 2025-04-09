@@ -3,11 +3,14 @@
 📍 Resende, RJ – Brasil
 
 Sou apaixonado por tecnologia e estou em constante aprendizado, buscando evoluir como desenvolvedor e construir soluções que realmente façam a diferença. Meu foco atual é no ecossistema Python e no desenvolvimento web fullstack.
+🔍 Em busca de oportunidades para aprender e crescer profissionalmente  
 
 🎓 Estudante de [Analise e desenvolvimento de Sistemas - Uniasselvi] 
+
 🎓 Estudante de [Desenvolvedor - FULSTACK PYTHON - EBAC] 
+
 💻 Apaixonado por desenvolvimento de software  
-🔍 Em busca de oportunidades para aprender e crescer profissionalmente  
+
 
 ---
 
